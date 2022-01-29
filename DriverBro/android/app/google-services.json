@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "269394613154",
+    "project_id": "driver-bro-ca5e5",
+    "storage_bucket": "driver-bro-ca5e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269394613154:android:ea9925020992ded8c298fb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_live_location_gmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269394613154-64a4eeq1epmq3sml90iv6s012f6oqoe6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_live_location_gmap",
+            "certificate_hash": "664a8674fcf36f79393e172a8d05eb77d109b9e4"
+          }
+        },
+        {
+          "client_id": "269394613154-i0g3ap5fautkd0nscrev6tii3nd7m36g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ_-Hh6UyZLL2ffLis_8mMfkThQckyG4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269394613154-i0g3ap5fautkd0nscrev6tii3nd7m36g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
